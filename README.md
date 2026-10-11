@@ -36,7 +36,7 @@ Built for **Environmental Hacks — Track 03: Waste and Energy**, by **Kushagra,
 ## Demo video
 
 <!-- TEAM: Replace the placeholder below with your public three-minute recording URL. -->
-**Three-minute walkthrough:** `PASTE_PUBLIC_DEMO_VIDEO_URL_HERE`
+**Three-minute walkthrough:** https://youtu.be/aX740bk0eXg
 
 Suggested recording: introduce the reuse problem → show the AWS dashboard → pair and approve a laptop → submit photos → inspect worker attribution and predictions → demonstrate Stop/recovery → explain the energy estimate.
 
@@ -369,5 +369,5 @@ The roadmap extends a working compute pipeline. Current boundaries include a sin
 * **Nikhil Kumar** ([@Nikhil10510](https://github.com/Nikhil10510)) — AI inference workloads, model optimization, and AWS deployment
 * **Kushagra** ([@dkush2024-dot](https://github.com/dkush2024-dot)) — Architecture, coordination plane, and task scheduler
 * **Vaibhav** ([@vaibhavdevelopor](https://github.com/vaibhavdevelopor)) — Control plane, database, and integration
-* **Chinmay** — Worker agent runtime and infrastructure
+* **Chinmay** — ([@chinmayp-17](https://github.com/chinmayp-17)) - Worker agent runtime and infrastructure
 
